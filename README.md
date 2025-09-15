@@ -142,3 +142,6 @@ The dataset is referenced in [`data.yaml`](data.yaml).
 ---
 
 For questions or issues, please refer to the notebook or open an issue in this repository.
+
+## License
+This repository is licensed under the [GNU Affero General Public License v3.0](LICENSE).
