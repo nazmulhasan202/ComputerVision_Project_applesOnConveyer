@@ -1,0 +1,15 @@
+# path: "C:\\Users\\nazmu\\OneDrive - University of Arizona\\Hands_on_AI-Ultralytics\\03-02\\dataset"
+# train: "train"
+# val: "val"
+# test: "test"
+
+# names:
+#   0: apple
+
+path: "C:\\Users\\nh202\\OneDrive - University of Arizona\\Hands_on_AI-Ultralytics\\03-02\\dataset"
+train: "train"
+val: "val"
+test: "test"
+
+names:
+  0: apple
